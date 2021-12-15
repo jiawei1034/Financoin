@@ -1,0 +1,44 @@
+
+.container {
+    margin-top: 35%;
+}
+
+#display {
+    text-align: right;
+    height: 50px;
+    width: 100%;
+    font-size: 30px;
+    margin-top: -20%;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.buttons > div {
+    border-top: 1px solid #999;
+    border-right: 1px solid#999;
+}
+
+.button {
+    border: 0.5px solid #999;
+    line-height: 100px;
+    text-align: center;
+    font-size: 30px;
+    cursor: pointer;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border-radius: 1%;
+}
+
+#equal {
+    background-color: #0177fe;
+    color: white;
+}
+
+.button:hover {
+    background-color: #323330;
+    color: white;
+    transition: 0.5s ease-in-out;
+}

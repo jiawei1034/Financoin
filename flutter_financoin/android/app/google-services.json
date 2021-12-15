@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320849067558",
+    "project_id": "financoinauthentication",
+    "storage_bucket": "financoinauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320849067558:android:bb052168c1ec971464b0e7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_financoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320849067558-lg0u0jicfb488c70t37jdi3s6rcdf456.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4IsXhm7eRUQsEmwkchunpBA68upi8mnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320849067558-lg0u0jicfb488c70t37jdi3s6rcdf456.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
